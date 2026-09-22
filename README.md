@@ -1,5 +1,4 @@
 # The Top 3 Best Songs and Albums
-<!DOCTYPE html>
 <html>
 <head>
 </head>
