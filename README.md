@@ -2,7 +2,7 @@
 <html>
 <head>
 </head>
-<h2> <strong>Top 3 Songs</strong> </h2>
+<h2> id="Top 3 Songs"><strong>Top 3 Songs</strong> </h2>
 <body>
 <p>
 <ol>
@@ -10,6 +10,7 @@
 <li>Silence by TXT</li>
 <li>Decode by Paramore</li>
 </ol>
+<a href="#Top 3 Songs">Jump to Top 3 Songs</a>
 </p>
 <h2>
 <strong>Top 3 Albums</strong>
@@ -21,6 +22,5 @@
 <li>The Romantic - Bruno Mars </li>
 </ol>
 </p>
-<img src="https://media.istockphoto.com/id/2170945433/vector/music-note-icon-in-flat-style-on-white-isolated-background.jpg"
 </body>
 </html>
