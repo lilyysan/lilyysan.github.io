@@ -2,15 +2,15 @@
 <html>
 <head>
 </head>
-<h2> id="Top 3 Songs"><strong>Top 3 Songs</strong> </h2>
 <body>
+<h2>id="top-3-songs"><strong>Top 3 Songs</strong></h2>
 <p>
 <ol>
 <li>Lovebomb by The Neighbourhood</li>
 <li>Silence by TXT</li>
 <li>Decode by Paramore</li>
 </ol>
-<a href="#Top 3 Songs">Jump to Top 3 Songs</a>
+<a href="#top-3-songs">Jump to Top 3 Songs</a>
 </p>
 <h2>
 <strong>Top 3 Albums</strong>
