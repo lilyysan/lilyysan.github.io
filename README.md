@@ -3,6 +3,8 @@
 <head>
 </head>
 <body>
+  <a href="#top-3-songs">Jump to Top 3 Songs</a>
+  <a href="#top-3-alhims">Jump to Top 3 Albums</a>
 <h2>id="top-3-songs"><strong>Top 3 Songs</strong></h2>
 <p>
 <ol>
@@ -10,10 +12,8 @@
 <li>Silence by TXT</li>
 <li>Decode by Paramore</li>
 </ol>
-<a href="#top-3-songs">Jump to Top 3 Songs</a>
 </p>
-<h2>
-<strong>Top 3 Albums</strong>
+<h2>id="top-3-albums"><strong>Top 3 Albums</strong>
 </h2>
 <p>
 <ol>
