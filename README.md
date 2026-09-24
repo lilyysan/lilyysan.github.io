@@ -13,7 +13,7 @@
 <li>Decode by Paramore</li>
 </ol>
 </p>
-<h2>id="top-3-albums"><strong>Top 3 Albums</strong>
+<h2><strong>Top 3 Albums</strong>
 </h2>
 <p>
 <ol>
