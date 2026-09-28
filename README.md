@@ -1,10 +1,20 @@
-# The Top 3 Best Songs and Albums 2026
 <html>
   
 <head>
+
+<style>
+  body {background-color: #e8edf7;}
+
+  h2 {color: #718ec2:}  
+</style>
+  
 </head>
 
+
 <body>
+
+<h1> The Top 3 Best Songs and Albums 2026 </h1>
+  
   <a href="#top-3-songs">Top 3 Songs</a>
   <a href="#top-3-alhims">Top 3 Albums</a>
 <h2><strong>Top 3 Songs</strong></h2>
