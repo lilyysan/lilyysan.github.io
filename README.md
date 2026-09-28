@@ -20,9 +20,9 @@
 </h2>
 
 <ol>
-  <li>I Love You - The Neighbourhood </li>
-  <li>you seem pretty sad for a girl so in love - Olivia Rodrigo </li>
-  <li>The Romantic - Bruno Mars </li>
+  <li><a href="https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI">I Love You.</a> - The Neighbourhood</li>
+  <li><a href="http://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl">you seem pretty sad for a girl so in love</a> - Olivia Rodrigo</li>
+  <li><a href="https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1">The Romantic</a> - Bruno Mars</li>
 </ol>
 
 </body>
